@@ -7,8 +7,8 @@ import simulations.*
 
   val classNames = List(
     classOf[GetTenCurrencies].getName,
-    classOf[GetFourCurrencies].getName,
-    classOf[GetBTC].getName
+    //classOf[GetFourCurrencies].getName,
+    //classOf[GetBTC].getName
   )
 
   classNames.foreach(s =>

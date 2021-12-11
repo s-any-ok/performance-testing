@@ -7,7 +7,7 @@ import io.gatling.http.Predef.*
 class GetTenCurrencies extends BaseSimulation {
   def Get() =
     exec(
-      http("USD, EUR, RUR, BTC")
+      http("Ten currencies")
         .post("/pubinfo?exchange&json&coursid=4")
         .check(status.is(200))
     )
