@@ -1,0 +1,91 @@
+RUN	simulations.GetBTC	getbtc	1639258493097	 	3.7.2
+USER	Get currency info (buy/sale)	START	1639258494133
+USER	Get currency info (buy/sale)	START	1639258494479
+USER	Get currency info (buy/sale)	START	1639258494806
+REQUEST		BTC data	1639258494133	1639258494890	OK	 
+USER	Get currency info (buy/sale)	END	1639258494891
+USER	Get currency info (buy/sale)	START	1639258495135
+REQUEST		BTC data	1639258494479	1639258495313	OK	 
+USER	Get currency info (buy/sale)	END	1639258495313
+USER	Get currency info (buy/sale)	START	1639258495477
+USER	Get currency info (buy/sale)	START	1639258495805
+USER	Get currency info (buy/sale)	START	1639258496148
+USER	Get currency info (buy/sale)	START	1639258496478
+USER	Get currency info (buy/sale)	START	1639258496806
+USER	Get currency info (buy/sale)	START	1639258497134
+USER	Get currency info (buy/sale)	START	1639258497478
+USER	Get currency info (buy/sale)	START	1639258497804
+USER	Get currency info (buy/sale)	START	1639258498147
+REQUEST		BTC data	1639258495477	1639258498452	OK	 
+USER	Get currency info (buy/sale)	END	1639258498452
+USER	Get currency info (buy/sale)	START	1639258498477
+USER	Get currency info (buy/sale)	START	1639258498803
+USER	Get currency info (buy/sale)	START	1639258499166
+USER	Get currency info (buy/sale)	START	1639258499478
+USER	Get currency info (buy/sale)	START	1639258499805
+USER	Get currency info (buy/sale)	START	1639258500135
+USER	Get currency info (buy/sale)	START	1639258500476
+USER	Get currency info (buy/sale)	START	1639258500805
+USER	Get currency info (buy/sale)	START	1639258501133
+USER	Get currency info (buy/sale)	START	1639258501476
+USER	Get currency info (buy/sale)	START	1639258501804
+USER	Get currency info (buy/sale)	START	1639258502134
+USER	Get currency info (buy/sale)	START	1639258502476
+USER	Get currency info (buy/sale)	START	1639258502805
+USER	Get currency info (buy/sale)	START	1639258503132
+USER	Get currency info (buy/sale)	START	1639258503478
+USER	Get currency info (buy/sale)	START	1639258503805
+REQUEST		BTC data	1639258496479	1639258506523	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get currency info (buy/sale)	END	1639258506524
+REQUEST		BTC data	1639258498147	1639258506815	OK	 
+USER	Get currency info (buy/sale)	END	1639258506816
+REQUEST		BTC data	1639258496806	1639258506833	OK	 
+USER	Get currency info (buy/sale)	END	1639258506834
+REQUEST		BTC data	1639258500135	1639258507034	OK	 
+USER	Get currency info (buy/sale)	END	1639258507034
+REQUEST		BTC data	1639258497135	1639258507198	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get currency info (buy/sale)	END	1639258507198
+REQUEST		BTC data	1639258502477	1639258507218	OK	 
+USER	Get currency info (buy/sale)	END	1639258507218
+REQUEST		BTC data	1639258494807	1639258507326	OK	 
+REQUEST		BTC data	1639258495805	1639258507326	OK	 
+USER	Get currency info (buy/sale)	END	1639258507326
+USER	Get currency info (buy/sale)	END	1639258507326
+REQUEST		BTC data	1639258503805	1639258507433	OK	 
+USER	Get currency info (buy/sale)	END	1639258507434
+REQUEST		BTC data	1639258497478	1639258507525	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get currency info (buy/sale)	END	1639258507525
+REQUEST		BTC data	1639258499166	1639258507561	OK	 
+USER	Get currency info (buy/sale)	END	1639258507562
+REQUEST		BTC data	1639258500476	1639258507622	OK	 
+USER	Get currency info (buy/sale)	END	1639258507622
+REQUEST		BTC data	1639258501477	1639258507820	OK	 
+USER	Get currency info (buy/sale)	END	1639258507821
+REQUEST		BTC data	1639258497804	1639258507851	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get currency info (buy/sale)	END	1639258507851
+REQUEST		BTC data	1639258502805	1639258508018	OK	 
+USER	Get currency info (buy/sale)	END	1639258508019
+REQUEST		BTC data	1639258495135	1639258508442	OK	 
+USER	Get currency info (buy/sale)	END	1639258508443
+REQUEST		BTC data	1639258496148	1639258508587	OK	 
+USER	Get currency info (buy/sale)	END	1639258508588
+REQUEST		BTC data	1639258501804	1639258508648	OK	 
+USER	Get currency info (buy/sale)	END	1639258508649
+REQUEST		BTC data	1639258498477	1639258508782	OK	 
+USER	Get currency info (buy/sale)	END	1639258508783
+REQUEST		BTC data	1639258499478	1639258508850	OK	 
+USER	Get currency info (buy/sale)	END	1639258508850
+REQUEST		BTC data	1639258500805	1639258508983	OK	 
+USER	Get currency info (buy/sale)	END	1639258508984
+REQUEST		BTC data	1639258501133	1639258509046	OK	 
+USER	Get currency info (buy/sale)	END	1639258509047
+REQUEST		BTC data	1639258503133	1639258509192	OK	 
+USER	Get currency info (buy/sale)	END	1639258509193
+REQUEST		BTC data	1639258502134	1639258509390	OK	 
+USER	Get currency info (buy/sale)	END	1639258509390
+REQUEST		BTC data	1639258499805	1639258509583	OK	 
+USER	Get currency info (buy/sale)	END	1639258509583
+REQUEST		BTC data	1639258503478	1639258509800	OK	 
+USER	Get currency info (buy/sale)	END	1639258509800
+REQUEST		BTC data	1639258498804	1639258509996	OK	 
+USER	Get currency info (buy/sale)	END	1639258509997

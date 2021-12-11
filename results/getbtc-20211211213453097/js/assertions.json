@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetBTC",
+  "simulationId": "getbtc",
+  "start": 1639258493097,
+  "description": "",
+  "scenarios": ["Get currency info (buy/sale)"],
+  "assertions": [
+
+  ]
+}

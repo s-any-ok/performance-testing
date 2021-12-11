@@ -1,0 +1,91 @@
+RUN	simulations.GetFourCurrencies	getfourcurrencies	1639258474940	 	3.7.2
+USER	Get four currencies info (buy/sale)	START	1639258475957
+USER	Get four currencies info (buy/sale)	START	1639258476297
+USER	Get four currencies info (buy/sale)	START	1639258476623
+USER	Get four currencies info (buy/sale)	START	1639258476965
+USER	Get four currencies info (buy/sale)	START	1639258477293
+USER	Get four currencies info (buy/sale)	START	1639258477625
+USER	Get four currencies info (buy/sale)	START	1639258477961
+REQUEST		USD, EUR, RUR, BTC	1639258475957	1639258478087	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258478088
+USER	Get four currencies info (buy/sale)	START	1639258478296
+USER	Get four currencies info (buy/sale)	START	1639258478627
+USER	Get four currencies info (buy/sale)	START	1639258478971
+USER	Get four currencies info (buy/sale)	START	1639258479299
+USER	Get four currencies info (buy/sale)	START	1639258479626
+USER	Get four currencies info (buy/sale)	START	1639258479970
+USER	Get four currencies info (buy/sale)	START	1639258480296
+USER	Get four currencies info (buy/sale)	START	1639258480623
+USER	Get four currencies info (buy/sale)	START	1639258480971
+USER	Get four currencies info (buy/sale)	START	1639258481294
+USER	Get four currencies info (buy/sale)	START	1639258481637
+USER	Get four currencies info (buy/sale)	START	1639258481966
+USER	Get four currencies info (buy/sale)	START	1639258482293
+USER	Get four currencies info (buy/sale)	START	1639258482623
+USER	Get four currencies info (buy/sale)	START	1639258482964
+USER	Get four currencies info (buy/sale)	START	1639258483295
+USER	Get four currencies info (buy/sale)	START	1639258483637
+USER	Get four currencies info (buy/sale)	START	1639258483964
+REQUEST		USD, EUR, RUR, BTC	1639258476624	1639258484177	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258484178
+USER	Get four currencies info (buy/sale)	START	1639258484288
+USER	Get four currencies info (buy/sale)	START	1639258484629
+USER	Get four currencies info (buy/sale)	START	1639258484958
+USER	Get four currencies info (buy/sale)	START	1639258485300
+USER	Get four currencies info (buy/sale)	START	1639258485629
+REQUEST		USD, EUR, RUR, BTC	1639258476297	1639258487311	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258487312
+REQUEST		USD, EUR, RUR, BTC	1639258477961	1639258488001	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258488001
+REQUEST		USD, EUR, RUR, BTC	1639258478296	1639258488343	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258488343
+REQUEST		USD, EUR, RUR, BTC	1639258478972	1639258489031	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258489031
+REQUEST		USD, EUR, RUR, BTC	1639258477293	1639258489129	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489130
+REQUEST		USD, EUR, RUR, BTC	1639258479299	1639258489358	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258489359
+REQUEST		USD, EUR, RUR, BTC	1639258478627	1639258489361	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489361
+REQUEST		USD, EUR, RUR, BTC	1639258481966	1639258489410	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489411
+REQUEST		USD, EUR, RUR, BTC	1639258479971	1639258489468	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489469
+REQUEST		USD, EUR, RUR, BTC	1639258484289	1639258489551	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489552
+REQUEST		USD, EUR, RUR, BTC	1639258479627	1639258489669	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258489670
+REQUEST		USD, EUR, RUR, BTC	1639258485629	1639258489748	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489749
+REQUEST		USD, EUR, RUR, BTC	1639258477626	1639258489949	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489950
+REQUEST		USD, EUR, RUR, BTC	1639258480972	1639258489964	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258489965
+REQUEST		USD, EUR, RUR, BTC	1639258483296	1639258490152	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258490153
+REQUEST		USD, EUR, RUR, BTC	1639258480297	1639258490326	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258490326
+REQUEST		USD, EUR, RUR, BTC	1639258482293	1639258490409	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258490410
+REQUEST		USD, EUR, RUR, BTC	1639258484630	1639258490557	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258490557
+REQUEST		USD, EUR, RUR, BTC	1639258480624	1639258490670	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258490671
+REQUEST		USD, EUR, RUR, BTC	1639258481294	1639258491338	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258491339
+REQUEST		USD, EUR, RUR, BTC	1639258481637	1639258491684	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Get four currencies info (buy/sale)	END	1639258491684
+REQUEST		USD, EUR, RUR, BTC	1639258476966	1639258491878	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258491879
+REQUEST		USD, EUR, RUR, BTC	1639258483637	1639258491925	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258491926
+REQUEST		USD, EUR, RUR, BTC	1639258482623	1639258492131	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258492131
+REQUEST		USD, EUR, RUR, BTC	1639258484958	1639258492334	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258492334
+REQUEST		USD, EUR, RUR, BTC	1639258482965	1639258492526	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258492527
+REQUEST		USD, EUR, RUR, BTC	1639258483964	1639258492726	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258492727
+REQUEST		USD, EUR, RUR, BTC	1639258485300	1639258492924	OK	 
+USER	Get four currencies info (buy/sale)	END	1639258492925

@@ -1,0 +1,39 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Admin\Desktop\QA\performance-testing\target\scala-3.0.2\test-classes.bak
+[debug] About to delete class files:
+[debug] 	GatlingRunner$package$.class
+[debug] 	GatlingRunner$package.class
+[debug] 	AddProductWithPauseSimulation.class
+[debug] 	main.class
+[debug] 	BaseSimulation.class
+[debug] 	GatlingRunner$package$.tasty
+[debug] 	GatlingRunner$package.tasty
+[debug] 	AddProductWithPauseSimulation.tasty
+[debug] 	main.tasty
+[debug] 	BaseSimulation.tasty
+[debug] We backup class files:
+[debug] 	GatlingRunner$package$.class
+[debug] 	GatlingRunner$package.class
+[debug] 	AddProductWithPauseSimulation.class
+[debug] 	main.class
+[debug] 	BaseSimulation.class
+[debug] 	GatlingRunner$package$.tasty
+[debug] 	GatlingRunner$package.tasty
+[debug] 	AddProductWithPauseSimulation.tasty
+[debug] 	main.tasty
+[debug] 	BaseSimulation.tasty
+[debug] Registering generated classes:
+[debug] 	GatlingRunner$package$.class
+[debug] 	GatlingRunner$package.class
+[debug] 	GetBTC.class
+[debug] 	main.class
+[debug] 	BaseSimulation.class
+[debug] 	GetFourCurrencies.class
+[debug] 	GetTenCurrencies.class
+[debug] 	GatlingRunner$package$.tasty
+[debug] 	GatlingRunner$package.tasty
+[debug] 	GetBTC.tasty
+[debug] 	main.tasty
+[debug] 	BaseSimulation.tasty
+[debug] 	GetFourCurrencies.tasty
+[debug] 	GetTenCurrencies.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Admin\Desktop\QA\performance-testing\target\scala-3.0.2\test-classes.bak

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetTenCurrencies",
+  "simulationId": "gettencurrencies",
+  "start": 1639258456558,
+  "description": "",
+  "scenarios": ["Get ten currencies info (buy/sale)"],
+  "assertions": [
+
+  ]
+}

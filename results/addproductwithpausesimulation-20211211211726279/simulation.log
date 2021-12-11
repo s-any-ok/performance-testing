@@ -1,0 +1,91 @@
+RUN	simulations.AddProductWithPauseSimulation	addproductwithpausesimulation	1639257446279	 	3.7.2
+USER	Add two products with pause scenario	START	1639257448065
+USER	Add two products with pause scenario	START	1639257448222
+USER	Add two products with pause scenario	START	1639257448395
+USER	Add two products with pause scenario	START	1639257448570
+USER	Add two products with pause scenario	START	1639257448729
+USER	Add two products with pause scenario	START	1639257448901
+USER	Add two products with pause scenario	START	1639257449057
+USER	Add two products with pause scenario	START	1639257449233
+USER	Add two products with pause scenario	START	1639257449393
+USER	Add two products with pause scenario	START	1639257449569
+USER	Add two products with pause scenario	START	1639257449727
+USER	Add two products with pause scenario	START	1639257449899
+USER	Add two products with pause scenario	START	1639257450059
+USER	Add two products with pause scenario	START	1639257450219
+USER	Add two products with pause scenario	START	1639257450392
+USER	Add two products with pause scenario	START	1639257450551
+USER	Add two products with pause scenario	START	1639257450724
+USER	Add two products with pause scenario	START	1639257450898
+USER	Add two products with pause scenario	START	1639257451055
+USER	Add two products with pause scenario	START	1639257451225
+USER	Add two products with pause scenario	START	1639257451398
+USER	Add two products with pause scenario	START	1639257451557
+USER	Add two products with pause scenario	START	1639257451728
+USER	Add two products with pause scenario	START	1639257451885
+USER	Add two products with pause scenario	START	1639257452057
+USER	Add two products with pause scenario	START	1639257452231
+USER	Add two products with pause scenario	START	1639257452389
+USER	Add two products with pause scenario	START	1639257452561
+USER	Add two products with pause scenario	START	1639257452733
+USER	Add two products with pause scenario	START	1639257452890
+REQUEST		Add product request	1639257448132	1639257458232	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458252
+REQUEST		Add product request	1639257448222	1639257458279	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458280
+REQUEST		Add product request	1639257448396	1639257458438	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458439
+REQUEST		Add product request	1639257448570	1639257458611	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458612
+REQUEST		Add product request	1639257448729	1639257458769	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458770
+REQUEST		Add product request	1639257448901	1639257458944	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257458945
+REQUEST		Add product request	1639257449058	1639257459103	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459104
+REQUEST		Add product request	1639257449233	1639257459276	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459277
+REQUEST		Add product request	1639257449393	1639257459447	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459448
+REQUEST		Add product request	1639257449569	1639257459606	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459607
+REQUEST		Add product request	1639257449728	1639257459780	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459782
+REQUEST		Add product request	1639257449899	1639257459940	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257459941
+REQUEST		Add product request	1639257450059	1639257460100	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460101
+REQUEST		Add product request	1639257450219	1639257460259	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460259
+REQUEST		Add product request	1639257450393	1639257460435	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460436
+REQUEST		Add product request	1639257450551	1639257460593	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460594
+REQUEST		Add product request	1639257450725	1639257460767	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460768
+REQUEST		Add product request	1639257452231	1639257460910	OK	 
+USER	Add two products with pause scenario	END	1639257460924
+REQUEST		Add product request	1639257452891	1639257460940	OK	 
+USER	Add two products with pause scenario	END	1639257460941
+REQUEST		Add product request	1639257450899	1639257460942	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257460943
+REQUEST		Add product request	1639257451056	1639257461086	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257461087
+REQUEST		Add product request	1639257451558	1639257461106	OK	 
+USER	Add two products with pause scenario	END	1639257461106
+REQUEST		Add product request	1639257451226	1639257461260	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257461261
+REQUEST		Add product request	1639257451399	1639257461430	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257461432
+REQUEST		Add product request	1639257451729	1639257461760	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257461762
+REQUEST		Add product request	1639257451886	1639257461931	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257461932
+REQUEST		Add product request	1639257452058	1639257462103	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257462104
+REQUEST		Add product request	1639257452389	1639257462432	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257462433
+REQUEST		Add product request	1639257452562	1639257462603	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257462604
+REQUEST		Add product request	1639257452733	1639257462759	KO	i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+USER	Add two products with pause scenario	END	1639257462759

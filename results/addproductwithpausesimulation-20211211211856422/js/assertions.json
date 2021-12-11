@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddProductWithPauseSimulation",
+  "simulationId": "addproductwithpausesimulation",
+  "start": 1639257536422,
+  "description": "",
+  "scenarios": ["Add two products with pause scenario"],
+  "assertions": [
+
+  ]
+}
